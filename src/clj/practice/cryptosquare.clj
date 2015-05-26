@@ -1,4 +1,4 @@
-(ns clj-practice.cryptosquare
+(ns practice.cryptosquare
   ;(:require [clojure.string :as s])
   )
 

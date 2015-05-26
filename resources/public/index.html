@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+<head lang="en">
+    <meta charset="UTF-8">
+    <title></title>
+</head>
+<body>
+<script src="js/cljpractice.js"></script>
+
+<form>
+    First name: <input type="text" id="cryptosquare-input">
+
+    <script>
+function myFunction() {
+    var x = document.getElementById("cryptosquare-input");
+    var out = practice.funcs.crypto_square(x.value);
+    document.getElementById("cryptosquare-output").innerHTML = out;
+}
+</script>
+
+    <button type="button" onclick="myFunction()">Convert!</button>
+    <p id="cryptosquare-output">result</p>
+</form>
+
+</body>
+</html>

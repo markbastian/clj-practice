@@ -1,4 +1,4 @@
-(ns clj-practice.treasurehunt)
+(ns practice.treasurehunt)
 
 ;http://users.csc.calpoly.edu/~jdalbey/103/Projects/ProgrammingPractice.html
 

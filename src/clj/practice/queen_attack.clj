@@ -1,4 +1,4 @@
-(ns clj-practice.queen-attack)
+(ns practice.queen-attack)
 
 ;;http://garajeando.blogspot.com/2015/05/exercism-queen-attack-in-clojure.html
 ;;https://github.com/trikitrok/MyExercismExercises/blob/master/clojure/queen-attack/README.md

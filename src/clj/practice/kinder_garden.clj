@@ -1,4 +1,4 @@
-(ns clj-practice.kinder-garden
+(ns practice.kinder-garden
   (:require [clojure.string :as s]))
 
 ;;http://garajeando.blogspot.com/2015/05/exercism-kindergarten-garden-in-clojure.html
